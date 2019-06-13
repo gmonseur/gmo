@@ -1,0 +1,2 @@
+# gmo
+Jekyll personal blog
